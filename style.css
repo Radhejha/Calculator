@@ -1,6 +1,6 @@
-body{
+/* body{
     background-image: url('calculator.jpg');
-}
+} */
 
 .container{
     text-align: center;
@@ -20,9 +20,10 @@ input{
 }
 
 button{
-    border-radius: 20px;
+    border-radius: 19px;
+    color: #ffffff;
     font-size: 25px;
-    background: #97f190;
+    background: #002D4F;
     width: 80px;
     height: 70px;
     margin: 6px;
@@ -30,15 +31,15 @@ button{
 
 .calculator{ 
     border: 4px rgba(236, 14, 14, 0.877);
-    background-color: #5913db3d;
+    background-color: #BD92F8;
     padding: 10px;
-    border-radius: 45px;
+    border-radius: 19px;
     display: inline-block;
     
 }
 
-h1{
-    color:rgb(255, 0, 0);"
-    font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+center{
+    color:#53BE6B;
+    font-size: 50px;
+    font-family: 'Verdana', Courier, monospace;
 }
